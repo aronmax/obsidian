@@ -16,3 +16,4 @@
 - Spotify Alternative - SimpleTune
 - Screen Recorder - ScreenCam
 - test
+- new
